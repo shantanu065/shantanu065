@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**shantanu065/shantanu065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 👋 Hi, I'm Shantanu Kumar
 
-Here are some ideas to get you started:
+🎓 Master’s in Bioinformatics | 🧬 Structural Bioinformatician  
+🔬 Specializing in Computational Structural Biology, Protein Modeling, and NGS Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+
+- **Languages**: Python, Bash, R 
+- **Structural Bioinformatics**: PyMOL, VMD, Chimera, Modeller, GROMACS, AutoDock, Amber, HADDOCK, Schrodinger Suite, RFDifussion, RfAntibody, Alphafold, RosseTTAcommons, RosseTTAFold
+- **NGS & Omics Tools**: Galaxy, FastQC, BWA, GATK, HISAT2
+- **Data Analysis**: pandas, NumPy, seaborn, matplotlib, Xmgrace
+- **Other**: Git, GitHub, Linux, VS Code, 
