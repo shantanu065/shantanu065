@@ -15,4 +15,4 @@
   RFDiffusion, RfAntibody, AlphaFold, PyMOL, VMD, Chimera, Modeller, RosettaCommons, RosettaFold  
 - **NGS & Omics Tools**: Galaxy, FastQC, BWA, GATK, HISAT2  
 - **Data Analysis**: CPPTRAJ, Xmgrace, pandas, NumPy, seaborn, matplotlib  
-- **Other**: Git, GitHub, Linux, VS Code, Excel, PowerPoint
+- **Other**: Linux, VS Code, Excel, PowerPoint,Git, GitHub
