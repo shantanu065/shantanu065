@@ -17,5 +17,5 @@
   RFDiffusion, RfAntibody, AlphaFold, Modeller,  RosettaFold,charm-GUI  
 - **NGS & Omics Tools**: Galaxy, FastQC, BWA, GATK, HISAT2  
 - **Data Analysis**: CPPTRAJ, Xmgrace,
-- **Visualization Tool**:VMS, Pymol,Chimera
+- **Visualization Tool**:VMD, Pymol,Chimera
 - **Other**: Linux, VS Code, Excel, PowerPoint,Git, GitHub
