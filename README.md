@@ -14,7 +14,7 @@
 - **Python Libraries**: pandas, NumPy, seaborn, matplotlib
 - **Machine Learning / Deep Learning**: PyTorch, scikit-learn, transformers
 - **Structural Bioinformatics**: AMBER, GROMACS, AutoDock, HADDOCK, Schrodinger Suite, MMGBSA/MMPBSA,  
-  RFDiffusion, RfAntibody, AlphaFold, Modeller, RosettaCommons, RosettaFold,charm-GUI  
+  RFDiffusion, RfAntibody, AlphaFold, Modeller,  RosettaFold,charm-GUI  
 - **NGS & Omics Tools**: Galaxy, FastQC, BWA, GATK, HISAT2  
 - **Data Analysis**: CPPTRAJ, Xmgrace,
 - **Visualization Tool**:VMS, Pymol,Chimera
