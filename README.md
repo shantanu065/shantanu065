@@ -11,12 +11,11 @@
 ## 🧠 Skills & Tools
 
 - **Languages**: Python, Bash, R
-- **Python Libraries**:
-- **Bioinformatics & Structural Biology**: Biopython, MDAnalysis, ProDy
+- **Python Libraries**: pandas, NumPy, seaborn, matplotlib
 - **Machine Learning / Deep Learning**: PyTorch, scikit-learn, transformers
-- **Data Science & Statistics**: NumPy, SciPy, pandas, matplotlib, seaborn
 - **Structural Bioinformatics**: AMBER, GROMACS, AutoDock, HADDOCK, Schrodinger Suite, MMGBSA/MMPBSA,  
-  RFDiffusion, RfAntibody, AlphaFold, PyMOL, VMD, Chimera, Modeller, RosettaCommons, RosettaFold  
+  RFDiffusion, RfAntibody, AlphaFold, Modeller, RosettaCommons, RosettaFold,charm-GUI  
 - **NGS & Omics Tools**: Galaxy, FastQC, BWA, GATK, HISAT2  
-- **Data Analysis**: CPPTRAJ, Xmgrace, pandas, NumPy, seaborn, matplotlib  
+- **Data Analysis**: CPPTRAJ, Xmgrace,
+- **Visualization Tool**:VMS, Pymol,Chimera
 - **Other**: Linux, VS Code, Excel, PowerPoint,Git, GitHub
